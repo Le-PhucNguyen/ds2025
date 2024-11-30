@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Lê Phúc Nguyên
 * Student ID: 22BI13338
-* Student Group ID: Not-for-now
+* Student Group ID: 02
